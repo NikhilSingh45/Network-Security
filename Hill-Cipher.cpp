@@ -81,5 +81,4 @@ int main()
 
 	HillCipher(message, key);
 
-	return 0;
-}
+	return 0;}
