@@ -9,3 +9,6 @@
    6. Program to implement Data Encryption Standard(DES) 
    7. Implmenting the RSA Algorithm in Cryptography
    8. Implmentation of the Null Cipher 
+
+## Project on image Encryption using Python.
+   The project uses python to encrypt the given image and also decrypt the image.
